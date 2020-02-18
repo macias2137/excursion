@@ -46,8 +46,13 @@ header h1 {
     padding: 0.5rem;
 }
 
-.container h5 {
+h4 {
     font-size: 1.3125rem;
     font-weight: normal;
+    color: grey;
+    margin: 0;
+}
 
+footer {
+    text-align: right;
 }
